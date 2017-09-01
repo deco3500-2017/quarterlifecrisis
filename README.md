@@ -228,6 +228,7 @@ The team will work in unison throughout the semester to deliver solutions within
 * Reevaluation of end user goals.
 * Further research into use cases.
 * Further research of the primary user-base in order to prioritise feature requirements:
+--* Specific task development
 ..* Specific task development
 ..* Reward and consequence specification
 ..* Interaction mechanics between users
@@ -263,8 +264,7 @@ Reevaluation of end user goals from analysed user testing outcomes.
 
 ### 5.2 Project Timeline
 The following table outlines the intended project timeline and key deliverable dates.
-
-
+![Project Timelien](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Timeline%20image%20updated-final.png "Project Timeline")
 
 
 
