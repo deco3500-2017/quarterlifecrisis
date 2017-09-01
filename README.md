@@ -228,10 +228,10 @@ The team will work in unison throughout the semester to deliver solutions within
 * Reevaluation of end user goals.
 * Further research into use cases.
 * Further research of the primary user-base in order to prioritise feature requirements:
---* Specific task development
-..* Specific task development
-..* Reward and consequence specification
-..* Interaction mechanics between users
+  * Specific task development
+  * Specific task development
+  * Reward and consequence specification
+  * Interaction mechanics between users
 * Create low-fidelity prototypes/mockups.
 * Conduct initial user testing of low-fidelity prototypes.
 
@@ -257,8 +257,8 @@ Reevaluation of end user goals from analysed user testing outcomes.
 
 #### Ongoing: Reflection
 * Documentation of project progression over the semester including:
-..* Justification of design decisions and refinements of the concept
-..* Changes resulting from user testing feedback
+  * Justification of design decisions and refinements of the concept
+  * Changes resulting from user testing feedback
 * Reflection on decisions made and context refinement
 
 
