@@ -50,6 +50,41 @@ As briefly mentioned before, the system will allow the submission of evidence su
 
 
 ### 2.3 Target Users/Audience
+The primary target audience of this application is Gen-Y: the age group of 18 - 35-year-olds. This group is typically known for being highly active on social media – in particular: Facebook and Instagram (Nanji, 2017). They are at pivotal points of time in their lives: starting or graduating from school, getting jobs, leaving home, etc. Often, this age group is unused to dealing with large blocks of unstructured time in which they don’t have to answer to anyone. Users in and around this target group are focussed on self improvement and building skills for professional and/or personal development.
+
+The users are of 2 main types: motivators and in need of motivation. A user can enter as a person in need of motivation to complete a task, but also provide motivation to a friend in need.
+
+As the target group is well versed in many (if not all) forms of current social media applications. This implies that we can complex interactions that are pre-existing in other social media apps. Ease of use and effectiveness of an application has been shown to be directly related to its quality of performance. This provides strong support  for the implementation of a strong visual layout and interface (Salimun, 2013).
+
+This application does not target users younger than 18 because they generally still are under the guidance of teachers and parents. It is more useful for people with an unstructured lifestyle.
+
+#### Design Personas
+1. Jill is a 22-year-old girl that has recently moved out of home for the first time. She finds it difficult to motivate herself to get out of bed unless she absolutely has to.Without her family to push her, she often ends up relying on her friends to keep her going. However, it is becoming increasingly challenging to spend large amounts of time together to help her out of her slump. Jill is heavily reliant on social media to keep her connected, and uses at least 4 social media applications at a time to communicate with her social circle.
+**Goals:**
+* Build self-esteem
+* Become self-reliant
+* To keep herself healthy and in shape
+
+**Frustrations:**
+* Easily loses motivation
+* Drives even the smallest distances
+* Reckless spender
+
+
+
+2. William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
+**Goals:**
+* To build his life and family
+* To motivate his friends to achieve their goals
+* To continue having meaningful relationships with his friends
+
+**Frustrations:**
+* Making time for everyone (friends/family)
+* Being lied to
+* Getting everyone under one roof
+
+
+
 
 ### 2.4 Innovation in Solution
 As mentioned in section 1.1 Domain Challenge/Problem, there are currently various solutions for the problems of user consistency and commitment to goals. Where this solution differs from current options available is primarily in its openness and flexibility. The application has been designed to be a framework for users to adapt to best suit their motivational styles. As not all users respond to certain motivational elements such as reminders or rewards the same way, the system has been designed to provide as many different options as possible, to cater to all users. This focus on the system as a platform is the main differentiation between this system and existing products, with the five main elements of the framework being individual/group goals, reward/consequences, evidence, checkup system/reminders.
