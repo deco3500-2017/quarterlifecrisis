@@ -229,7 +229,6 @@ The team will work in unison throughout the semester to deliver solutions within
 * Further research into use cases.
 * Further research of the primary user-base in order to prioritise feature requirements:
   * Specific task development
-  * Specific task development
   * Reward and consequence specification
   * Interaction mechanics between users
 * Create low-fidelity prototypes/mockups.
