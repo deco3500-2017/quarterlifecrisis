@@ -53,7 +53,7 @@ As briefly mentioned before, the system will allow the submission of evidence su
 ### 2.3 Target Users/Audience
 The primary target audience of this application is Gen-Y: the age group of 18 - 35-year-olds. This group is typically known for being highly active on social media – in particular: Facebook and Instagram (Nanji, 2017). They are at pivotal points of time in their lives: starting or graduating from school, getting jobs, leaving home, etc. Often, this age group is unused to dealing with large blocks of unstructured time in which they don’t have to answer to anyone. Users in and around this target group are focussed on self improvement and building skills for professional and/or personal development.
 
-The users are of 2 main types: motivators and in need of motivation. A user can enter as a person in need of motivation to complete a task, but also provide motivation to a friend in need.
+The users are of 2 main types: motivators and those in need of motivation. A user can enter as a person in need of motivation to complete a task, but also provide motivation to a friend in need.
 
 As the target group is well versed in many (if not all) forms of current social media applications. This implies that we can complex interactions that are pre-existing in other social media apps. Ease of use and effectiveness of an application has been shown to be directly related to its quality of performance. This provides strong support  for the implementation of a strong visual layout and interface (Salimun, 2013).
 
