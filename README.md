@@ -27,3 +27,15 @@ However, retention rates and success rates vary a lot, and many users choose to 
 To target the lack of supervision and setting unrealistic goals, the system we will be creating will base itself on creating a community from a user’s existing pool of friends. These social community can provide both supervision, progress checking, and accountability while also being able to monitor whether or not a member of the community has set an unrealistic goal for themselves. The idea behind the scope is that those around a user can help them enforce task completion towards a goal, while also having better knowledge than strangers on what sort of goal is appropriate for an individual of the group.  
 
 Various services have attempted to solve this problem of consistency/commitment through developing communities around their service or program. With the goal being to give users a reason to keep using the service, whether because of the competition, the moral support or other aspects. However, most of the users in one's community are not friends from real life, meaning there's very little accountability for users involved, and retention rates still consistently diminish.
+
+***
+
+## 2.0 Concept
+### 2.1 Solution Outline / Rationale
+The main premise for this project is creating a social platform for encouraging users accountability towards a task, plan or specific goal. The solution is to develop a platform where a user is able to invite a set of friends to validate and/or hold the individual accountable for completing a goal, with group defined rewards/consequences. Some of the functionalities available to the users as tools to maintain accountability and promote consistency will be messaging, system notices, overview reporting, and collective goal setting.  
+
+Users can set a goal they would like to achieve such as going to the gym three times a week for a month, then they invite their close friends, specifying one or multiple people to validate a task is completed (eg. housemate, or photo/video evidence within the application). With a final consequence/reward set and voted upon by members of the group for the completion/failure of the task.
+
+Members of the community have input on the goals set by each member before they are accepted. This will be implemented as a check for the group to maintain realistic and achievable goals as defined by members of each community. Once the goal is accepted, the system will allow for the goal to be set and support its completion by providing an accountability and consistency check.
+
+As briefly mentioned before, the system will allow the submission of evidence such as photographs as well as individuals or group setting penalties if a goal is not achieved.
