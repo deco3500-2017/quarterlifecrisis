@@ -1,8 +1,7 @@
 
 Project Proposal
 ================
-### Team Quarter Life Crisis
-#### **DECO3500**  
+## **Quarter Life Crisis** | DECO3500 - Social & Mobile Computing
 
 ## 1.0 Introduction
 
