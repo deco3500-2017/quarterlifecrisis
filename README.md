@@ -41,16 +41,30 @@ Members of the community have input on the goals set by each member before they 
 As briefly mentioned before, the system will allow the submission of evidence such as photographs as well as individuals or group setting penalties if a goal is not achieved.
 
 ### 2.2 Project Aims
-Increase user consistency/commitment towards goal achievement
-Eventually decrease reliance on friends for accountability
-Facilitate the creation of support systems within groups of friends
-Allow for realistic goal setting through the use of collaborative interfaces.
-Ease the tracking of goals through a progress checking platform
-Create persuasive interfaces to increase motivation within user groups
+* Increase user consistency/commitment towards goal achievement
+* Eventually decrease reliance on friends for accountability
+* Facilitate the creation of support systems within groups of friends
+* Allow for realistic goal setting through the use of collaborative interfaces.
+* Ease the tracking of goals through a progress checking platform
+* Create persuasive interfaces to increase motivation within user groups
+
 
 ### 2.3 Target Users/Audience
 
 ### 2.4 Innovation in Solution
+As mentioned in section 1.1 Domain Challenge/Problem, there are currently various solutions for the problems of user consistency and commitment to goals. Where this solution differs from current options available is primarily in its openness and flexibility. The application has been designed to be a framework for users to adapt to best suit their motivational styles. As not all users respond to certain motivational elements such as reminders or rewards the same way, the system has been designed to provide as many different options as possible, to cater to all users. This focus on the system as a platform is the main differentiation between this system and existing products, with the five main elements of the framework being individual/group goals, reward/consequences, evidence, checkup system/reminders.
+
+When using the application users have the option for setting an individual goal that they themselves must complete alone, or setting a goal for all/some members of a group to complete. This option differs from current solutions which force users to pick one or the other, and within groups commonly not made up of real friends.
+
+Users also have the option to set up rewards and/or consequences for completing or not completing a task. The recurring idea of flexibility is also present here, with the reward being open for the individual or group members to decide upon, with the reward being anything from food, to creating a social media post etc. Systems available currently primarily reward users through intangible rewards such as points and achievements, or in terms of person to person betting force users to use their inbuilt system (from which they take a profit, and charge for the service). This system allows the user to set up their rewards, adding another potential benefit as a certain reward may be more of an incentive than money or a digital asset.
+
+Evidence for the completion of goals or parts of goals is also a feature while not specifically unique in itself, its use case is innovative. Within this app, users are able to choose whether they allow friends to see the evidence, and how in depth they want this evidence to be. Options include photographs, videos, GPS location/tracking and potentially third party integration, with all options customizable.
+
+Similar to that of evidence tracking is reminders, with the main forms of innovation being the level of customizability and depth of control a user has access to. Current systems have predefined times, and consistencies for reminders, commonly causing users to become annoyed/frustrated with a system. This system allows a user to set when or if a notification should occur, and when/if other group members are also notified. Specific events can be set up to trigger notifications,
+
+The final innovation in this solution is the inclusion of users own friends, and the framework/platform provided. Users are able to either import friends from Facebook or allow them to sign up with basic contact information (requiring only name and number), reducing the barrier to entry. Differing from existing solutions which focus on creating an ‘additional’ community external from that of an individual's friend group. In the hopes of pairing like-minded individuals, and ideally creating a profitable user base outside that of industry standards such as Facebook/Instagram etc.
+
+All of these different elements as mentioned focus on the theme of openness and flexibility, allowing users to customize the platform to best suit themselves. This focus on the platform as a framework as opposed to a guided system, distinguishes this application from other existing solutions, resulting in a user friendly innovative design.
 
 
 ### 2.5 Social/Mobile Theory
@@ -79,7 +93,7 @@ The design will take into consideration collaborative displays. While the collab
 As part of the accountability system, the application would enable location tagging based on GPS so that the users can tick the completion of a task in a specific location. For example, if the user had to study on the weekend the confirmation can be actioned by the device being used within the university campus.
 
 **Vicarious Goal Fulfillment (challenge):**
-There is a major obstacle in the development of the project that needs to be addressed, and that is the concept of vicarious goal fulfillment. This theory relates to how individuals accomplish their own goals when there is a common group goal. In a study to understand this idea more, there was evidence that in a group setting some individuals experienced other members’ accomplishments even if they had not reached a goal themselves (Kulow, Kramer, Bentley 2015). This vicarious experienced then made it more likely for those individuals who had not reached a goal to underperform as they related a group accomplishment as their own. 
+There is a major obstacle in the development of the project that needs to be addressed, and that is the concept of vicarious goal fulfillment. This theory relates to how individuals accomplish their own goals when there is a common group goal. In a study to understand this idea more, there was evidence that in a group setting some individuals experienced other members’ accomplishments even if they had not reached a goal themselves (Kulow, Kramer, Bentley 2015). This vicarious experienced then made it more likely for those individuals who had not reached a goal to underperform as they related a group accomplishment as their own.
 
 As we are dealing with both individual and group based goals, this theory will be key in working around consistency in goal accomplishment. Some of the methods implementing in the studies differ from the scope of our implementation. For example, the studies grouped strangers, whereas our system deals with acquainted individuals. In being acquainted, the group will know what characteristics binds them together which is also a difference with the studies on vicarious goal fulfillment where the participants were just told they they were similar to each other.
 In combating this problem, the QLC team will pursue to implement persuasive interfaces and technology onto the system to promote individual consistency and accountability as well as group driven goals.
