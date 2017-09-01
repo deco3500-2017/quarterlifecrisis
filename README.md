@@ -31,6 +31,7 @@ Various services have attempted to solve this problem of consistency/commitment 
 
 
 ## 2.0 Concept
+
 ### 2.1 Solution Outline / Rationale
 The main premise for this project is creating a social platform for encouraging users accountability towards a task, plan or specific goal. The solution is to develop a platform where a user is able to invite a set of friends to validate and/or hold the individual accountable for completing a goal, with group defined rewards/consequences. Some of the functionalities available to the users as tools to maintain accountability and promote consistency will be messaging, system notices, overview reporting, and collective goal setting.  
 
@@ -58,8 +59,11 @@ As the target group is well versed in many (if not all) forms of current social 
 
 This application does not target users younger than 18 because they generally still are under the guidance of teachers and parents. It is more useful for people with an unstructured lifestyle.
 
-#### Design Personas
-1. Jill is a 22-year-old girl that has recently moved out of home for the first time. She finds it difficult to motivate herself to get out of bed unless she absolutely has to.Without her family to push her, she often ends up relying on her friends to keep her going. However, it is becoming increasingly challenging to spend large amounts of time together to help her out of her slump. Jill is heavily reliant on social media to keep her connected, and uses at least 4 social media applications at a time to communicate with her social circle.
+#### 2.3.1 Design Personas
+##### a. Persona 1 - Jill
+![Persona 1 - Jill](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Persona-Jill.png "Jill")
+Jill is a 22-year-old girl that has recently moved out of home for the first time. She finds it difficult to motivate herself to get out of bed unless she absolutely has to.Without her family to push her, she often ends up relying on her friends to keep her going. However, it is becoming increasingly challenging to spend large amounts of time together to help her out of her slump. Jill is heavily reliant on social media to keep her connected, and uses at least 4 social media applications at a time to communicate with her social circle.
+
 **Goals:**
 * Build self-esteem
 * Become self-reliant
@@ -71,8 +75,10 @@ This application does not target users younger than 18 because they generally st
 * Reckless spender
 
 
+##### a. Persona 2 - William
+![Persona 2 - William](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Persona-Jill.png "Jill")
+William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
 
-2. William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
 **Goals:**
 * To build his life and family
 * To motivate his friends to achieve their goals
