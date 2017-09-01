@@ -106,35 +106,35 @@ The problem space will be considered from both a design and technical perspectiv
 
 Quarter Life Crisis will work in an agile environment, which will require every team member to be hands on with whatever the requirements of the project are at a given point. This means that while some members may have stronger skills in specific aptitudes, they will be required to participate in every aspect of the process as the design sprints come through. Below is a list of each member and their particular strengths.  
 
-Sebastian Zuloaga - 44577083 (Leader)
-..* Front End Coding
-..* Writing & Editing
-..* Process Design
-..* Interaction Design
+**Sebastian Zuloaga - 44577083 (Leader)**
+* Front End Coding
+* Writing & Editing
+* Process Design
+* Interaction Design
 
-Sanjana Bhatnagar - 44376352
-..* Visual Design
-..* Process Design
-..* User Experience
-..* Front End Dev
+**Sanjana Bhatnagar - 44376352**
+* Visual Design
+* Process Design
+* User Experience
+* Front End Dev
 
-Liam Bordon - 43538546
-..* Graphic Design
-..* User Experience Design
-..* User Interface Design
-..* Front End Development
+**Liam Bordon - 43538546**
+* Graphic Design
+* User Experience Design
+* User Interface Design
+* Front End Development
 
-Daniel Homer - 43553745
-..* Front End Development
-..* User Experience Design
-..* Back End Development
-..* Prototype Design
+**Daniel Homer - 43553745**
+* Front End Development
+* User Experience Design
+* Back End Development
+* Prototype Design
 
-Mitchell Woods - 43592986
-..* Initial Mockups/Design
-..* Prototyping
-..* Front End Development
-..* User Testing/Feedback
+**Mitchell Woods - 43592986**
+* Initial Mockups/Design
+* Prototyping
+* Front End Development
+* User Testing/Feedback
 
 ### 3.2 Work Allocation
 Work allocation will be based around various team members abilities and their desired tasks. Additional members will work alongside each other when necessary to allow for synonymous group collaboration and success. All group members will contribute equally and fairly to the workload and agree to meet any completion deadlines of assigned tasks. Where team members are unable to complete a task in the designated timeframe, they will notify the rest of the team whom will reallocate the task to another member or assist in its completion.
@@ -169,3 +169,53 @@ Communication will be based primarily in Slack to allow for consistent and conve
 
 ### 4.3 Team member accountability
 Working with GitHub allows us to use ZenHub as a platform to keep track of progress. During every meeting as project progress is discussed, team members will use ZenHub to create a lists of tasks that need to be accomplished. This will allow for progress tracking among members and visibility of where everyone is. This will help with the agile development framework and will also aid in recording the work that every team member has participated in.
+
+
+## 5.0 Plan
+### 5.1 Major Milestones (Key Deliverables)
+The team will work in unison throughout the semester to deliver solutions within the relevant problem domain. This will be done primarily through fortnightly sprint cycles.
+
+##### Sprint 1: Project Proposal
+* Initial brainstorming of potential solutions within the problem space.
+* Further research of similar solutions within the chosen problem space.
+* Identification of primary user base.
+* Establishment project plan and timeline.
+
+##### Sprint 2: Interaction Walk Through
+**Goal:** Establish the specific user needs and wants on the system. Create mockups and prototypes for the individual tasks that the system will support such as viewing statistics or creating a goal. At this stage the prototype does not have to be interactive or connected.
+
+* Idea refinement from stand-up feedback.
+* Reevaluation of end user goals.
+* Further research into use cases.
+* Further research of the primary user-base in order to prioritise feature requirements:
+..* Specific task development
+..* Reward and consequence specification
+..* Interaction mechanics between users
+* Create low-fidelity prototypes/mockups.
+* Conduct initial user testing of low-fidelity prototypes.
+
+##### Sprint 3: User Testing Outcomes
+**Goal:** The third sprint of the design process will consist of testing and evaluating the designs from the previous sprint. The information from the test will be used to create the first interactive prototype that must show the basic user task flow for a full user scenario (creating a goal, tracking progress, accomplishing a goal).
+
+* Conduct further user testing of low-fidelity prototypes to document user interactions and identify improvements to the user experience.
+* Collate and analyse low-fidelity user testing results.
+* Idea and design refinement from stand-up feedback and analysed user testing results.
+* Reevaluation of end user goals from analysed user testing outcomes.
+* Create initial interactive prototype based on low-fidelity prototype user testing outcomes and refined user goals.
+* Conduct user testing of the interactive prototype.
+
+##### Sprint 4: Final Design Prototype
+**Goal:** the final design will consist of the final design iteration. New testing session and evaluation will be conducted for the prototype on sprint 3. The results will be used to correct any oversights on the design journey and be used to add any bells and whistles onto the final prototype.
+
+* Collate and analyse prototype user testing results.
+* Idea and design refinement from stand-up feedback and analysed user testing results
+Reevaluation of end user goals from analysed user testing outcomes.
+* Create promotional material.
+* Refine prototype with consideration of user testing results.
+* Create documentation to accompany prototype.
+
+##### Ongoing: Reflection
+* Documentation of project progression over the semester including:
+..* Justification of design decisions and refinements of the concept
+..* Changes resulting from user testing feedback
+* Reflection on decisions made and context refinement
