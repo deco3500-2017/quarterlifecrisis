@@ -205,7 +205,7 @@ The team will work in unison throughout the semester to deliver solutions within
 * Conduct user testing of the interactive prototype.
 
 ##### Sprint 4: Final Design Prototype
-**Goal:** the final design will consist of the final design iteration. New testing session and evaluation will be conducted for the prototype on sprint 3. The results will be used to correct any oversights on the design journey and be used to add any bells and whistles onto the final prototype.
+**Goal:** The final design will consist of the final design iteration. New testing session and evaluation will be conducted for the prototype on sprint 3. The results will be used to correct any oversights on the design journey and be used to add any bells and whistles onto the final prototype.
 
 * Collate and analyse prototype user testing results.
 * Idea and design refinement from stand-up feedback and analysed user testing results
@@ -219,3 +219,76 @@ Reevaluation of end user goals from analysed user testing outcomes.
 ..* Justification of design decisions and refinements of the concept
 ..* Changes resulting from user testing feedback
 * Reflection on decisions made and context refinement
+
+
+### 5.2 Project Timeline
+The following table outlines the intended project timeline and key deliverable dates.
+
+
+
+
+
+### 5.3 Resources
+Throughout the project there will be two main areas in which various resources will be required, during design phases, and during prototyping/user testing phases. The team has a range of skills using the different resources, so before using any of the resources there will be a discussion on the specific concept requirements to assess what tools are the most appropriate.
+
+Below is a list of the tools that we have in our tool kit. Some of them we believe we will use (marked with an *), while the use of other will be on a needs basis.
+
+
+### Storyboarding
+* Boords.com
+* Storyboardthat.com*
+
+### Prototyping/User Testing Tools
+* Adobe Experience Design*
+* MarvelApp
+* Invision App*
+* Proto.io
+* Adobe Muse
+
+### Design Resources
+* Unsplash.com
+* Gratisography.com
+* Iconfinder.com
+* Freepik.com
+* Adobe Stock
+* Typekit
+
+### Design Tools
+* Adobe Illustrator
+* Adobe Photoshop
+* Adobe Muse
+
+### 5.4 Tags
+#### Key Concepts
+* #community
+* #awareness
+* #coordination
+* #reflective
+* #conversation
+
+#### Domain Related Keywords
+* Community Accountability System
+* Social Group Goals
+
+
+
+## 6. References
+
+King, R. B. and D. A. Watkins (2012). "“Socializing” Achievement Goal Theory: The Need for Social Goals." Psychological Studies 57(1): 112-116.
+
+Barbieri, J.A. 2012, The Structure of a Team: The Influence of Goal Setting Type on Intrinsic Motivation, Group Cohesion, and Goal Achievement Orientation of Division III Female Student-Athletes at The Richard Stockton College of New Jersey, The University of the Rockies.
+
+Rapp, C., Goscha, R., & Fukui, S. (2014). Enhanced Consumer Goal Achievement Through Strengths-Based Group Supervision. Psychiatric Rehabilitation Journal, Psychiatric Rehabilitation Journal, 2014.
+
+Salimun, C. (2013). The relationship between visual interface aesthetics, task performance, and preference (PhD). University of Glasgow.
+
+Nanji, A. (2017). The Most Popular Social Networks With Millennials, Gen X, and Baby Boomers. MarketingProfs. Retrieved from:
+https://www.marketingprofs.com/charts/2017/31792/the-most-popular-social-networks-with-millennials-gen-x-and-baby-boomers
+
+Niemantsverdriet, K., et al. (2016). Designing for Multi-User Interaction in the Home Environment: Implementing Social Translucence. Proceedings of the 2016 ACM Conference on Designing Interactive Systems. Brisbane, QLD, Australia, ACM: 1303-1314.
+
+Szostek, A. M., et al. (2008). Understanding the implications of social translucence for systems supporting communication at work. Proceedings of the 2008 ACM conference on Computer supported cooperative work. San Diego, CA, USA, ACM: 649-658.
+
+Katina Kulow, Thomas Kramer, and Kara Bentley (2015). "All For One and One For All: Individual Vicarious Goal Fulfillment in Group Contexts". Advances in Consumer Research 43: 601-601.
+
+Barbara Briers and Elaine Chan (2013). "When Social Comparison Is Demotivating For Goal Achievement".  Advances in Consumer Research 41.
