@@ -175,13 +175,13 @@ Working with GitHub allows us to use ZenHub as a platform to keep track of progr
 ### 5.1 Major Milestones (Key Deliverables)
 The team will work in unison throughout the semester to deliver solutions within the relevant problem domain. This will be done primarily through fortnightly sprint cycles.
 
-##### Sprint 1: Project Proposal
+#### Sprint 1: Project Proposal
 * Initial brainstorming of potential solutions within the problem space.
 * Further research of similar solutions within the chosen problem space.
 * Identification of primary user base.
 * Establishment project plan and timeline.
 
-##### Sprint 2: Interaction Walk Through
+#### Sprint 2: Interaction Walk Through
 **Goal:** Establish the specific user needs and wants on the system. Create mockups and prototypes for the individual tasks that the system will support such as viewing statistics or creating a goal. At this stage the prototype does not have to be interactive or connected.
 
 * Idea refinement from stand-up feedback.
@@ -194,7 +194,7 @@ The team will work in unison throughout the semester to deliver solutions within
 * Create low-fidelity prototypes/mockups.
 * Conduct initial user testing of low-fidelity prototypes.
 
-##### Sprint 3: User Testing Outcomes
+#### Sprint 3: User Testing Outcomes
 **Goal:** The third sprint of the design process will consist of testing and evaluating the designs from the previous sprint. The information from the test will be used to create the first interactive prototype that must show the basic user task flow for a full user scenario (creating a goal, tracking progress, accomplishing a goal).
 
 * Conduct further user testing of low-fidelity prototypes to document user interactions and identify improvements to the user experience.
@@ -204,7 +204,7 @@ The team will work in unison throughout the semester to deliver solutions within
 * Create initial interactive prototype based on low-fidelity prototype user testing outcomes and refined user goals.
 * Conduct user testing of the interactive prototype.
 
-##### Sprint 4: Final Design Prototype
+#### Sprint 4: Final Design Prototype
 **Goal:** The final design will consist of the final design iteration. New testing session and evaluation will be conducted for the prototype on sprint 3. The results will be used to correct any oversights on the design journey and be used to add any bells and whistles onto the final prototype.
 
 * Collate and analyse prototype user testing results.
@@ -214,7 +214,7 @@ Reevaluation of end user goals from analysed user testing outcomes.
 * Refine prototype with consideration of user testing results.
 * Create documentation to accompany prototype.
 
-##### Ongoing: Reflection
+#### Ongoing: Reflection
 * Documentation of project progression over the semester including:
 ..* Justification of design decisions and refinements of the concept
 ..* Changes resulting from user testing feedback
