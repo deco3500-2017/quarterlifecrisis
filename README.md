@@ -28,7 +28,7 @@ To target the lack of supervision and setting unrealistic goals, the system we w
 
 Various services have attempted to solve this problem of consistency/commitment through developing communities around their service or program. With the goal being to give users a reason to keep using the service, whether because of the competition, the moral support or other aspects. However, most of the users in one's community are not friends from real life, meaning there's very little accountability for users involved, and retention rates still consistently diminish.
 
-***
+
 
 ## 2.0 Concept
 ### 2.1 Solution Outline / Rationale
@@ -97,3 +97,75 @@ There is a major obstacle in the development of the project that needs to be add
 
 As we are dealing with both individual and group based goals, this theory will be key in working around consistency in goal accomplishment. Some of the methods implementing in the studies differ from the scope of our implementation. For example, the studies grouped strangers, whereas our system deals with acquainted individuals. In being acquainted, the group will know what characteristics binds them together which is also a difference with the studies on vicarious goal fulfillment where the participants were just told they they were similar to each other.
 In combating this problem, the QLC team will pursue to implement persuasive interfaces and technology onto the system to promote individual consistency and accountability as well as group driven goals.
+
+
+## 3.0 Team
+### 3.1 Team Members/Roles
+
+The problem space will be considered from both a design and technical perspective throughout all phases of the project. As such, the team will work in a self-organising and cross-functional manner and attempt to limit compartmentalisation of tasks based solely on individual attributes.
+
+Quarter Life Crisis will work in an agile environment, which will require every team member to be hands on with whatever the requirements of the project are at a given point. This means that while some members may have stronger skills in specific aptitudes, they will be required to participate in every aspect of the process as the design sprints come through. Below is a list of each member and their particular strengths.  
+
+Sebastian Zuloaga - 44577083 (Leader)
+..* Front End Coding
+..* Writing & Editing
+..* Process Design
+..* Interaction Design
+
+Sanjana Bhatnagar - 44376352
+..* Visual Design
+..* Process Design
+..* User Experience
+..* Front End Dev
+
+Liam Bordon - 43538546
+..* Graphic Design
+..* User Experience Design
+..* User Interface Design
+..* Front End Development
+
+Daniel Homer - 43553745
+..* Front End Development
+..* User Experience Design
+..* Back End Development
+..* Prototype Design
+
+Mitchell Woods - 43592986
+..* Initial Mockups/Design
+..* Prototyping
+..* Front End Development
+..* User Testing/Feedback
+
+### 3.2 Work Allocation
+Work allocation will be based around various team members abilities and their desired tasks. Additional members will work alongside each other when necessary to allow for synonymous group collaboration and success. All group members will contribute equally and fairly to the workload and agree to meet any completion deadlines of assigned tasks. Where team members are unable to complete a task in the designated timeframe, they will notify the rest of the team whom will reallocate the task to another member or assist in its completion.
+
+### 3.3 Logistics
+The team leader is primarily responsible for organising team meetings, booking studios, classrooms and computer laboratories. They will also facilitate any resources (outlined in section 5.2 Resources) needed by the team as well as any external services. However, the team as a collective is still responsible for delegating and organising all required tasks between themselves.
+
+### 3.4 Decision Making
+Each team member has equal rights and authority in decision making. Any team decisions will be decided by a majority vote. If a majority decision cannot be established by the team, the team leader will decide on the path of action for the team. When a decision is made, all team members are to accept, commit and support the decision.
+
+### 3.5 Conflict Resolution
+If any difficulties are faced between members throughout the project, the group will primarily handle it internally. If further issues develop that the team cannot handle effectively or that is above their jurisdiction, then tutors will be notified and involved in rectifying the situation. If any member/s are unresponsive to the previous steps outlined, then formal proceedings will be conducted.
+
+
+
+## 4.0 Communication
+### 4.1 File Storage
+
+Google Drive link: https://drive.google.com/drive/folders/0ByCNRVNpo7N6NHpxSE9ycjVmV0E?usp=sharing
+
+GitHub: https://github.com/deco3500-2017/quarterlifecrisis
+
+
+#### 4.1.1 Naming Conventions
+All documents to be completed for submission will be named according to their title within the course. Once a document is submitted, its relating material will be moved to a dedicated folder, with the name corresponding to the project title. Meetings minutes will be titled with the date, and any other non-code based items will be named to depict their purpose as accurately as possible.
+
+### 4.2 Social Platform
+The team will use a private channel in Slack as the main method of communication. If there is an urgent to address, a team member may be contacted through Facebook messenger as it may be a quicker turn around for messages.
+
+#### 4.2.1 Facilitate Communication and/or File Sharing
+Communication will be based primarily in Slack to allow for consistent and convenient communication between all members. We will also use the workshop and practical times to convene and discussion the project. Additional meetings will be held when required due to time restraints, workload or if any further difficulties are faced. We will coordinate our work through Google Drive to allow for efficient and effective collaboration on the project as well as file sharing for any additional resources. We will also use Github to assist in this and serve as a means to collate our work.
+
+### 4.3 Team member accountability
+Working with GitHub allows us to use ZenHub as a platform to keep track of progress. During every meeting as project progress is discussed, team members will use ZenHub to create a lists of tasks that need to be accomplished. This will allow for progress tracking among members and visibility of where everyone is. This will help with the agile development framework and will also aid in recording the work that every team member has participated in.
