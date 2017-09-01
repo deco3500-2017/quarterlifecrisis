@@ -73,6 +73,7 @@ This application does not target users younger than 18 because they generally st
 * Drives even the smallest distances
 * Reckless spender
 
+---
 
 ##### a. Persona 2 - William
 ![Persona 2 - William](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/William.png "William") William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
