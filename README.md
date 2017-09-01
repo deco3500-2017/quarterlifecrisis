@@ -39,3 +39,11 @@ Users can set a goal they would like to achieve such as going to the gym three t
 Members of the community have input on the goals set by each member before they are accepted. This will be implemented as a check for the group to maintain realistic and achievable goals as defined by members of each community. Once the goal is accepted, the system will allow for the goal to be set and support its completion by providing an accountability and consistency check.
 
 As briefly mentioned before, the system will allow the submission of evidence such as photographs as well as individuals or group setting penalties if a goal is not achieved.
+
+### 2.2 Project Aims
+Increase user consistency/commitment towards goal achievement
+Eventually decrease reliance on friends for accountability
+Facilitate the creation of support systems within groups of friends
+Allow for realistic goal setting through the use of collaborative interfaces.
+Ease the tracking of goals through a progress checking platform
+Create persuasive interfaces to increase motivation within user groups
