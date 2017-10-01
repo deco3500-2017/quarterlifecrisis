@@ -1,1 +1,4 @@
 
+Reviewing the process of designed we had embarked on, it was noticeable that we had not made as much progress as we had intended to after the first standup. Even days after, the team was still struggling to catch up to the project we had set out. 
+
+For this reason, we believed that the team needed to divide and conquer. Between the 5 team members, we would move forward by producing 3 different prototypes. Each prototype would represent a different design direction for the accountability application we set out to create. This would allow us to quickly gather more information on our topic through the use of prototypes, insights which would allow us to build the final proof of concept prototype. In this folder you will find all the files relating to the 3 different prototypes developed for the Accountability application.  
