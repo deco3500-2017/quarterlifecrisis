@@ -22,7 +22,9 @@ While receiving varied responses on whether the two respondents held themselves 
 
 With these responses (and the help of other smaller comments and insights), we were able to come up with two main themes for the system which could be incorporated into a gamified accountability system:
 
-**1- The lawmaker and the sheriff:** 
+**1- The lawmaker and the sheriff:** the lawmaker and the sheriff concept comes from the separation of roles. Lawmakers are the users who will set themselves the goals and the parameters of how to achieve them. On other hand, sheriffs are those users who will enforce the rules made by lawmakers. How does this relate to out application?
 
-**2- The Carrot and the stick:**
+Well from the interviews mentioned above, we gathered that some people might be good in setting goals while others may not. In other cases, some users may be good at motivating and keeping account of others while others might not. This separation of roles makes it easier to understand the responsibilities within the group and allows each user to capitalise on their strengths in their social group. 
+
+**2- The Carrot and the stick:** The metaphor of the carrot and the stick is the idea that we will focus on with the next prototype. During the interviews, it was mentioned that in keeping someone accountable there is a need to understand if positive reinforcements or punishments works better for a particular person. The carrot and the stick comes in as a way of using both of these methods for each user. As users get closer to their goals, they would recieve carrots as a reward and if they stalled progress then they could be given the stick as a punishment. This metaphor drove most of the gamification prototype as you will see below. 
 
