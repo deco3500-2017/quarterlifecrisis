@@ -16,11 +16,12 @@ Fostering accountability requires clarity in five areas:
 All 5 need to work together in the system. If even just one is missing, accountability will fall through that gap.
 
 Additional considerations:
+
 6. **Commitment** - Invite commitment. Just because someone knows what to do doesn't mean they will do it. The understanding of how the task/context will benefit them personally (individual) as well as how their contribution will benefit the 'task setter' (group).
 7. **Evaluation of Effectiveness** - Review the process. How can it be improved. Should the process change in the future??
 8. **Consistency** - Habitual practice is an instinctively difficult thing to change. By monitoring the above 7 and 'checking on' them consistently the overall process can be pushed towards being habitual for the 'doer'. This will make it less of a 'big deal' and easier to achieve a desirable outcome.
 
-a. **Mindset** - self setting, education of the goal in context to bigger picture
+    a. **Mindset** - self setting, education of the goal in context to bigger picture
 
 Goals/task must be tied to the ambitions of a larger 'body', this gives context to multiple parties with different roles in achieving a successful outcome (eg. User & Group).
 
@@ -55,16 +56,17 @@ Apps already out there:
 Asana, Stickk(monetary), GoF*ingDoIt (monetry), PACT, beeminder
 
 
-In our context:
+#### In our context:
 - Limit to individual goals within a group common goal. Eg. Get better at backstroke within the swimming common goal. Using the group, have a higher chance of using the crowd to assist with that goal.
 - *Key problems*:
 1. Big group of unknown people with common goal - **TRUST**. This takes time to establish. In the context of achieving a goal, this is an unrealistic expectation (especially if short timeframes are involved). If this cannot be established and/or hesitation in initiating the establishment, then there is a less chance the person with the goal will be motivated to achieve a successful outcome utilising the group as they will be less willing to take advice and find it harder to relate to others in the group who may have achieved a similar goal. If they resort to an individual approach, then there is no point of the platform at all, as there is no supervision or consistency/commitment of community support.
 2. Friends are uninterested in your goal and do not provide the necessary support and therefore the motivation resulting from is not present. The friendship group should be small to instill the 'trust' aspect only, otherwise a deviation from original goal may occur (eg. group may indirectly orient this direction because they are not *experts* in the particular area). Although, trust may not be an issue within a small friendship group, knowledge surrounding a particular goal in most instances will not be present. Further, this is dependent on location (eg. what if you moved from the snow to the beach & want to learn how to surf - none of your friends know how to surf because they have always lived in the snow!). If this small group cannot relate to the context themselves, then they will be less likely to contribute as much as they would if they had an active interest in the context. Thus reducing the motivational factor.
 
 --
+
 As such, the system would most likely benefit to include 2 'groups' who both actively contribute to a particular goal - community group (context experts) & trusted group (accountability experts). In addition, ideally a small friends group with a common goal would be more effective (whilst getting assistance/advice from the community) than an individual, as one of the problems surrounding trust (and context relation)
 
 - Propose a system where: you have your friends & the group both contributing to your outcome. Eg. Your friends may not be interested in you swimming whereas the swimming group would.
 - To enforce consistency and interaction - the friends group could 'vet' the larger group feedback. etc. etc. because you trust your friends.
-
+- The feed is system primarily displays the socail interaction between someone with a goal and friends, eg. commenting on the *'process'* from the 'expert' group. 
 - Reward: eg. Shop rewards - --> extra time for goal
