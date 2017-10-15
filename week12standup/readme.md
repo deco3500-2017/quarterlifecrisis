@@ -1,6 +1,6 @@
-#Week 12 Standup 
+# Week 12 Standup 
 
-##Drawing to a Close 
+## Drawing to a Close 
 
 As the project deadline draws closer, it has been a race against time for the team to define the design direction of the project. While previous testing has uncovered intriguing insights, we still struggled with a broad concept that could be adapted or turned into anything. The problem with this is that our concept attempted to be a one size fit all type solution, which on closer inspection, was so broad that it fit loosely on any type of scenario. The idea of accountability is not a simple one to pin down, specially considering that many factors are at play. This became clear as testing for our prototypes showed a wide range of themes from respondents. For example, while some user could make themeselves accountable others could not which showed that different users would need to be treated differently. Another theme was that of positive reinforcement versus negative reinforcement in keeping someone accountable. This was as expressed during target market research interviews when a user acknowledged that while he needed negative reinforcement, he understood that some may react better to positive encouragement and reminding others about their goals in pushing them to accomplish what they had set. 
 
