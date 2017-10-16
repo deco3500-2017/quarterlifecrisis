@@ -27,10 +27,10 @@ We are axcited for the progress we have made on finalising the concept and from 
 
 ### Sebastian 
 
--One testing session for the gaming prototype
--Ideation for Final Prototype
--Sketches for the Final Prototype
--Small sample web application to represent prototype
+*One testing session for the gaming prototype
+*Ideation for Final Prototype
+*Sketches for the Final Prototype
+*Small sample web application to represent prototype
 
 
 
