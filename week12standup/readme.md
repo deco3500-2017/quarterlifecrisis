@@ -10,5 +10,28 @@ While we were eager to chose a specific context in which our accountability appl
 
 On this folder corresponding to the week 12 standup, you will find the summary from the testing sessions for the different prototypes in their individual folders. These results were used by the team in discussing the final concept to be dynamically prototype. The final concept and idea to be prototype also has its own folder which further details how we arrived to that point and everything that the prototype will contain. 
 
-We are axcited for the progress we have made on finalising the concept and from now until next week's showcase it will be development time to bring to reality as much of the concept as possible.   
+We are axcited for the progress we have made on finalising the concept and from now until next week's showcase it will be development time to bring to reality as much of the concept as possible. 
+
+## Work for Each Team Member. 
+
+### Daniel
+
+### Liam
+
+### Mitch 
+
+### Sanjana
+
+-One testing session for the gaming prototype
+-Ideation for Final Protoype
+
+### Sebastian 
+
+-One testing session for the gaming prototype
+-Ideation for Final Prototype
+-Sketches for the Final Prototype
+-Small sample web application to represent prototype
+
+
+
 
