@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Office Champions Prototype</title>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type ="text/css" href="bootstrap.css">
+        <script src="jquery-3.2.1.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="updown.js"></script>
+    </head>
+
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6" style="position: fixed;
+                height: 100%;
+                background-image: url('phone.png'); 
+                background-repeat: no-repeat; 
+                background-position: center;">
+                    <div style="background-image: url('rope.png');
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    height: 555px;
+                    width: 430px;
+                    position: absolute;
+                    left: 146px;
+                    top: 151px;">
+
+                        <img src="elevator.png" id="elevator" style="position:relative;
+                        top:380px;"/>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                </div>
+                <div class="col-md-6">
+                    <form id="ratingsubmission">
+                        <input type="text" placeholder="Input a rating between 1 - 5" id="ratingvalue"/>
+                    </form>
+
+                    <p id="Warning"></p>
+
+                    <button id="submitrating"/>
+                        Enter Rating
+                    </button>
+                    
+                    <h1 id="rating"></h1>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>
