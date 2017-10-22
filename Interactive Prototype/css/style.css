@@ -1,0 +1,63 @@
+footer{
+  width: 100%;
+  background: #007bff;
+  bottom: 0;
+}
+
+header{
+  width: 100%;
+  background: #007bff;
+  top: 0;
+}
+
+.card-block{
+  padding: 10px;
+}
+
+header, footer{
+  padding-left: 10px;
+  color: white;
+}
+
+.card{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1{
+  font-size: 18px !important;
+  font-weight: 300 !important;
+}
+
+.popup{
+  position: fixed;
+  top: 100px;
+  left: 35%;
+  background: #007bff;
+  padding: 25px;
+  color: white;
+}
+
+.hidden{
+  display: none;
+}
+
+.btn{
+  color: white !important;
+}
+
+.hide{
+    display: none;
+}
+
+.iconActive{
+    color: gold;
+}
+
+.blue-bg{
+    background: #007bff;
+}
+
+#commentText{
+    padding: 10px;
+}
