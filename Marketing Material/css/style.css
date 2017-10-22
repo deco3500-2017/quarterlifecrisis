@@ -1,0 +1,115 @@
+/* - 1. Background
+/*================================================*/
+
+.gradient {
+    background: linear-gradient(to right bottom, #1c597c, #2A80B2, #abcee2);
+    background-attachment: fixed;
+}
+
+
+/* - 2. Layout
+/*================================================*/
+
+header,
+footer {
+    padding: 20px 0 20px 0;
+    background: linear-gradient(to right bottom, #1c597c, #2A80B2, #abcee2);
+    background-attachment: fixed;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+.heading {
+    font-family: 'karla', sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+    line-height: 40px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.wrapper-main {
+    padding: 60px 0 90px 0;
+}
+
+.wrapper-footer .heading+.paragraph {
+    margin-top: o;
+}
+
+.heading+.paragraph {
+    margin-top: 30px;
+}
+
+.wrapper-features,
+.wrapper-terms {
+    padding-top: 60px;
+}
+
+.wrapper-features h3 {
+    font-size: 23px;
+}
+
+.wrapper-button,
+.col-sm-6 {
+    padding-top: 40px;
+}
+
+.wrapper-footer .wrapper-button {
+    padding-top: 20px;
+}
+
+.paragraph {
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    color: white;
+    padding-top: 15px;
+}
+
+.font-grey {
+    color: rgba(0, 0, 0, .5);
+}
+
+.font-white {
+    color: white;
+}
+
+hr {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.category-image{
+    width: 100%;
+    margin-top: 60px;
+}
+
+.feature-image{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* - 3. Buttons
+/*================================================*/
+
+.btn-cta {
+    height: 55px;
+    background: #fff;
+    font-size: 19px;
+    text-transform: uppercase;
+    padding: 0 30px;
+    margin-left: 10px;
+}
+
+.wrapper-footer .btn-cta {
+    height: 40px;
+}
+
+.btn-cta.outline {
+    background: none;
+    font-size: 14px;
+    border: 1px solid white;
+}
