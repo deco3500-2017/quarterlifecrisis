@@ -17,6 +17,9 @@ We are axcited for the progress we have made on finalising the concept and from 
 ### Daniel
 
 ### Liam
+- Ideation of the social prototype
+- Creation of the social prototype
+- Testing session for the social prototype
 
 ### Mitch 
 
