@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>PrAccPrototype</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <!-- Icons -->
+    <link rel="stylesheet" href="icons/font-awesome-4.7.0/css/font-awesome.css">
+</head>
+
+<body>
+    <header>
+        Prototype - Music Example
+    </header>
+
+    <div class="container">
+        <img class="mainlogo" src="images/pracc_logo_dark.png"/>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <h2 class="profileh2">Your Rating</h2>
+                    <div class="card-block">
+                        <h4 class="usernamedisplay">Seb</h4>
+                        <img id="ownimage" src="images/person_icon.png"/>
+                        <p class="ratingpar" id="profilerating">Current Rating: <br><span class="sebrating">3.8</span></br></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <h2 class="profileh2">Quarter Life Crisis Members</h2>
+                     <div class="card-block" id="groupstatus">
+                        <div class="row" id="groupdisplay">
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Seb</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span class="sebrating">3.8</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Dan</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span id="danrating">4.1</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Sanjana</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span id="sanrating">3.5</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Mitch</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span  id="mitrating">4</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Liam</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span  id="liamrating">3.2</span></br></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-block">
+                        <img class="card-img-top" src="images/chord_display.jpg" alt="C chord photograph">
+                        <h4 class="card-title">One more chord for the books</h4>
+                        <p class="card-text">Had the time to practice my C chord today. Nor perfect form but getting there</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
+
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-block">
+                        <iframe width="350" height="200" src="https://www.youtube.com/embed/eqgQ6umu240?rel=0" frameborder="0" allowfullscreen></iframe>   
+                        <h4 class="card-title">Beginner Cover</h4>
+                        <p class="card-text">I think I can do Ed Sheeran proud. What do you guys think?</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
+                    </div>
+                </div>
+
+
+                <div class="card hide">
+                    <img class="card-img-top" src="images/live_music.jpg" alt="Performing live at a bar">
+                    <div class="card-block">
+                        <h4 class="card-title">Performed at the Bar</h4>
+                        <p class="card-text">I got the chance yesterday to perform at a bar, not a big crowd but helped the stage fright. </p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <iframe width="350" height="200" src="https://www.youtube.com/embed/Jbr5rT7fpNc?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="card-block">
+                        <h4 class="card-title">Check this guy out</h4>
+                        <p class="card-text">Will be back in business tomorrow for more practice trying to play as this guy.</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="popup hidden">
+        <h1>Are you sure you want to share this</h1>
+    </div>
+
+    <footer>
+        DECO 3500
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+</body>
+
+</html>
