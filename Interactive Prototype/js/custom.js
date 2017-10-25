@@ -75,8 +75,17 @@ var avg_list = [];
 
 function addToAvgList(num){
   avg_list.push(num); // add to list of ratings
+ //
+// get current rating for appending
+
+
   var x = getRatingAverage();
 }
+
+
+
+
+
 
 function getRatingAverage(){
   var total = 0; // reset total
@@ -94,40 +103,33 @@ function getRatingAverage(){
 
 
 
+//var comments = [];
+
 
 
 $("input").on("keydown",function search(e) {
     if(e.keyCode == 13) {
       // enter key pressed
-
       var comment = $(this).val();
+      //var appendStars = document.getElementsByClassName("fa-star");
+      var clonedStars = $("i").clone();
 
-      var appendText = comment + "<br><i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+      var appendText = comment + "<br>";//<!--i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+
+      //var appendStars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+    //  var commentRating = {appendText, appendStars, currentRating};
 
 
-
+    // this needs to go to the stars...
       var newcontent = document.createElement('div');
-      newcontent.innerHTML = appendText;
+      newcontent.innerHTML = appendText + " Rating: " + currentRating;
+
 
       document.getElementById("commentText").appendChild(newcontent);           // Append <p> to <div> with id="myDIV"
-
-        //alert($(this).val());
     }
 });
 
 
-
-
-
-
-var para = document.createElement("P");                       // Create a <p> node
-var t = document.createTextNode("This is a paragraph.");      // Create a text node
-para.appendChild(t);
-
-function test(){                                     // Append the text to <p>
-
-  document.getElementById("commentText").appendChild(para);           // Append <p> to <div> with id="myDIV"
-}
 
 
 
