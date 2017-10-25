@@ -109,26 +109,85 @@ function getRatingAverage(){
 
 $("input").on("keydown",function search(e) {
     if(e.keyCode == 13) {
-      // enter key pressed
-      var comment = $(this).val();
-      //var appendStars = document.getElementsByClassName("fa-star");
-      var clonedStars = $("i").clone();
+        // enter key pressed
+        var comment = $(this).val();
+        if (comment != "") {
+            //var appendStars = document.getElementsByClassName("fa-star");
+            var clonedStars = $("i").clone();
 
-      var appendText = comment + "<br>";//<!--i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+            var appendText = comment + "<br>";//<!--i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
 
-      //var appendStars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
-    //  var commentRating = {appendText, appendStars, currentRating};
-
-
-    // this needs to go to the stars...
-      var newcontent = document.createElement('div');
-      newcontent.innerHTML = appendText + " Rating: " + currentRating;
+            //var appendStars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+            //  var commentRating = {appendText, appendStars, currentRating};
 
 
-      document.getElementById("commentText").appendChild(newcontent);           // Append <p> to <div> with id="myDIV"
-    }
+            // this needs to go to the stars...
+            /*
+                    var stars;// = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+
+                    switch(currentRating) {
+                        case 0:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        case 1:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        case 2:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        case 3:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        case 4:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        case 5:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                            break;
+                        default:
+                            var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+                    }
+
+                    //var stars = "<i id='1' class='fa fa-star' aria-hidden='true'></i><i id='2' class='fa fa-star' aria-hidden='true'></i><i id='3' class='fa fa-star' aria-hidden='true'></i><i id='4' class='fa fa-star' aria-hidden='true'></i><i id='5' class='fa fa-star' aria-hidden='true'></i>";
+
+            */
+            /*
+                         var string = stars;
+                    var elements = $(string).map(function() {
+                        return $('<i>').append(this).html();  // Basically `.outerHTML()`
+                    });
+            */
+
+            var newcontent = document.createElement('div');
+            newcontent.innerHTML = appendText + " Rating: " + currentRating; //+ stars;
+
+
+            document.getElementById("commentText").appendChild(newcontent);           // Append <p> to <div> with id="myDIV"
+
+            cleanUp();
+        }
+    }//else {
+       // alert("Please enter a comment!");
+        //doc
+    //}
 });
 
+
+function cleanUp(){
+    document.getElementById("usr").value = "";
+    currentRating = 0;
+
+    // have to reset the star visual here.
+    /*
+    //class_names= document.getElementsByClassName("fa-star");
+    currentRating = 0;
+    for (var i = 0; i < class_names.length; i++) {
+        //starRating();
+        class_names[i].addEventListener('click', starRating);
+    }*/
+
+    //starRating();
+}
 
 
 
