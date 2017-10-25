@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Prototype</title>
+    <title>PrAccPrototype</title>
     <link rel="stylesheet" href="css/style.css">
     <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
     <!-- Bootstrap -->
@@ -17,19 +17,66 @@
 
 <body>
     <header>
-        Prototype
+        Prototype - Fitness Example
     </header>
 
     <div class="container">
+        <img class="mainlogo" src="images/pracc_logo_dark.png"/>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <h2 class="profileh2">Your Rating</h2>
+                    <div class="card-block">
+                        <h4 class="usernamedisplay">Seb</h4>
+                        <img id="ownimage" src="images/person_icon.png"/>
+                        <p class="ratingpar" id="profilerating">Current Rating: <br><span class="sebrating">3.8</span></br></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <h2 class="profileh2">Quarter Life Crisis Members</h2>
+                     <div class="card-block" id="groupstatus">
+                        <div class="row" id="groupdisplay">
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Seb</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span id="sebrating">3.8</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Dan</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span id="danrating">4.1</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Sanjana</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span id="sanrating">3.5</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Mitch</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span  id="mitrating">4</span></br></p>
+                            </div>
+                            <div class="groupuserdiv">
+                                <h4 class="usernamedisplay">Liam</h4>
+                                <img class="groupimage" src="images/person_icon.png"/>
+                                <p class="ratingpar">Current Rating: <br><span  id="liamrating">3.2</span></br></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+        </div>
         <div class="row">
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <img class="card-img-top" src="images/map.jpg" alt="Card image cap">
+                        <h4 class="card-title">Creative Run</h4>
+                        <p class="card-text">I think I had a bit too much fun today in my run! I managed to beat my record as well.</p>
                         <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
-
-                        <a href="#" class="btn btn-primary" onclick="test()">Comment</a>
 
                         <i id="1" class="fa fa-star" aria-hidden="true"></i>
                         <i id="2" class="fa fa-star" aria-hidden="true"></i>
@@ -39,20 +86,34 @@
 
                         <div class="comments">
                             <hr>
-                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search"> <!--onkeypress="search(this)"-->
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search"> <!-- onkeydown="search(this)"-->
                             <div id="commentText"></div>
                         </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
 
                     </div>
                 </div>
 
                 <div class="card">
-                    <img class="card-img-top" src="images/map.jpg" alt="Card image cap">
                     <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Share</a>
-                        <a href="#" class="btn btn-primary">Hide</a>
+                        <h4 class="card-title">Lazyness Kicked in. </h4>
+                        <p class="card-text">Sorry guys, havent been able to go on a run this past couple of days. Work been piling up.</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
                     </div>
                 </div>
 
@@ -60,40 +121,46 @@
                 <div class="card hide">
                     <img class="card-img-top" src="images/lunch.jpg" alt="Card image cap">
                     <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a class="btn btn-primary">Share</a>
-                        <button onclick="hideCard()" class="btn btn-primary">Hide</button>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Share</a>
-                        <a href="#" class="btn btn-primary">Hide</a>
+                        <h4 class="card-title">Keeping up with the diet</h4>
+                        <p class="card-text">Not really happy having to eat my greens, but can't rely just on exercise if I want to get fitter.</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
+
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
                     </div>
                 </div>
 
                 <div class="card">
                     <img class="card-img-top" src="images/run.jpg" alt="Card image cap">
                     <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Share</a>
-                        <a href="#" class="btn btn-primary">Hide</a>
-                    </div>
-                </div>
+                        <h4 class="card-title">Group Run</h4>
+                        <p class="card-text">My roommate dragged me out of bed today and got me to join him and others on a run.</p>
+                        <a href="#" id="myBtn" class="btn btn-primary">Rating: <span id="profileRating">0</span></a>
 
-                <div class="card">
-                    <div class="card-block">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Share</a>
-                        <a href="#" class="btn btn-primary">Hide</a>
-                    </div>
+                        <i id="1" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="2" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="3" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="4" class="fa fa-star" aria-hidden="true"></i>
+                        <i id="5" class="fa fa-star" aria-hidden="true"></i>
+
+                        <div class="comments">
+                            <hr>
+                            <input type="text" class="form-control" id="usr" placeholder="Comment..." class="search" onkeydown="search(this)">
+                            <div id="commentText"></div>
+                        </div>
+
+                        <a href="#" class="btn btn-primary" onclick="showComments()">Submit</a>
                 </div>
             </div>
         </div>
