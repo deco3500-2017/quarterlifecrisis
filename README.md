@@ -8,7 +8,8 @@ Pracc
  - [Team](#30-team)
  - [Plan](#50-plan)
  - [References](#60-references)
-
+ - [Marketing Poster](PRACC-Poster-Final.pdf)
+ - [Marketing Website](Promo-Site.muse)
 ## 1.0 Introduction
 
 ### 1.1 Domain Challenge/Problem
