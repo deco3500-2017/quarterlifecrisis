@@ -5,9 +5,9 @@ Pracc
 
  - [Introduction](#10-introduction)
  - [Concept](#20-concept)
- - [Interactive Prototype](quarterlifecrisis/Interactive Prototype/readme.md)
- - [Marketing Poster](quarterlifecrisis/Marketing Material/PRACC-Poster-Final.pdf)
- - [Marketing Website](quarterlifecrisis/Marketing Material/Promo-Site.muse)
+ - [Interactive Prototype](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Interactive%20Prototype/readme.md)
+ - [Marketing Website]( https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Marketing%20Material/Promo-Site.muse)
+ - [Marketing Poster]( https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Marketing%20Material/PRACC-Poster-Final.pdf)
  - [Team](#30-team)
  - [Plan](#50-plan)
  - [References](#60-references)
