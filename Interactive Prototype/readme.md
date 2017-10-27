@@ -18,8 +18,7 @@ Members of the community have input on the goals set by each member before they 
 #### Stage 1
 Initially, how concept centred around the completion of user created tasksm and the accountability (or lack off...) involved in the process to complete the task sucessfully. This iteration of the application, included a paper prototype of the user progession through the application from sign up to goal completion. Feeback receieved highlight improvements in paper protyping process and importance of testing 'vertically' (all the functionallity of **one** aspect) versus 'horizontally' (the entire product) - which we did.
 
-- Paper prototype
-- Images from the prototype used
+[a link](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Paper%20Prototype/DECO7350%20Paper%20Prototype.pdf)
 
 #### Stage 2
 
