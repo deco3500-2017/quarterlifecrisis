@@ -191,7 +191,14 @@ function cleanUp(){
 
 
 
-
+$('.tag').click(function(){
+    $(".newsfeed .card").hide();
+    var search_term = $(this).text();
+    console.log(search_term);
+    console.log($("div div button:contains("+search_term+")"));
+    var object = $("button:contains("+search_term+")").parent();
+    $(".newsfeed").append(object);
+});
 
 
 
