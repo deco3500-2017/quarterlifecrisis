@@ -3,11 +3,11 @@ Pracc
 ================
 #### **Quarter Life Crisis** | *DECO3500 - Social & Mobile Computing*
 
- - [Introduction](#1.0)
- - [Concept](#2.0)
- - [Team](#team)
- - [Plan](#plan)
- - [References](#references)
+ - [Introduction](#10-introduction)
+ - [Concept](#20-concept)
+ - [Team](#30-team)
+ - [Plan](#50-plan)
+ - [References](#60-references)
 
 ## 1.0 Introduction
 
@@ -317,7 +317,7 @@ Below is a list of the tools that we have in our tool kit. Some of them we belie
 
 
 
-## 6. References
+## 6.0 References
 
 King, R. B. and D. A. Watkins (2012). "“Socializing” Achievement Goal Theory: The Need for Social Goals." Psychological Studies 57(1): 112-116.
 
