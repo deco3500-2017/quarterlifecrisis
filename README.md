@@ -3,8 +3,8 @@ Pracc
 ================
 #### **Quarter Life Crisis** | *DECO3500 - Social & Mobile Computing*
 
- - [Introduction](#1.0 Introduction)
- - [Concept](#concept)
+ - [Introduction](#1.0)
+ - [Concept](#2.0)
  - [Team](#team)
  - [Plan](#plan)
  - [References](#references)
