@@ -3,7 +3,7 @@
 
 Activity feed is a *'card'* based social feed consisting of user activities. Although this prototype is at its *base* level, the concept of utilising a 'feed' to communicate a large variety of information to users is not new - eg. Facebook, Instagram, etc. The feed concept is especially useful when the information being display is not *always* of relevence to a particular user. As such, they can simply 'swipe through'. By utilising a feed for this prototype, users are able to skim through information that is irrelevent for them and quickly access information that **is** relevent for them.
 
-#### More Accountability Background Information / Research
+### More Accountability Background Information / Research
 *Concepts to be infused into to final product*
 
 **QUESTION FROM LAST SPRINT:** *What does it mean to be accountable?!*
@@ -23,8 +23,6 @@ Fostering accountability requires clarity in five areas:
 
 **All 5 need to work together in the system. If even just one is missing, accountability will fall through that gap.**
 
-
-
 ###### Additional considerations:
 6. **Commitment** - Invite commitment. Just because someone knows what to do doesn't mean they will do it. The understanding of how the task/context will benefit them personally (individual) as well as how their contribution will benefit the 'task setter' (group).
 7. **Evaluation of Effectiveness** - Review the process. How can it be improved. Should the process change in the future??
@@ -37,7 +35,7 @@ Goals/task must be tied to the ambitions of a larger 'body', this gives context 
 Example is scrum meeting. Eg. individual accountability occurs when the performance of each individual is assessed and results given back to the group in order to identify those in need of more assistance and support.
 http://www.sciencedirect.com/science/article/pii/S1877042813032941
 
-*Attributes of Groups More Likely to be success*
+*Attributes of Groups More Likely to be successfull*
 - Social skills
     - Know and trust each each other
     - Adjoin ambiguously
@@ -61,7 +59,7 @@ Many of these skills can be instilled into group members by simply assigning rol
 Members of the group teach what they've learned to someone else.
 
 
-###### Apps already out there:
+#### Apps already out there:
 Asana, Stickk(monetary), GoF*ingDoIt (monetry), PACT, beeminder
 
 
@@ -72,7 +70,7 @@ Asana, Stickk(monetary), GoF*ingDoIt (monetry), PACT, beeminder
 1. Big group of unknown people with common goal - **TRUST**. This takes time to establish. In the context of achieving a goal, this is an unrealistic expectation (especially if short timeframes are involved). If this cannot be established and/or hesitation in initiating the establishment, then there is a less chance the person with the goal will be motivated to achieve a successful outcome when utilising the group, as they will be less willing to take advice and find it harder to relate to others in the group who may have achieved a similar goal. If they resort to an individual approach, then there is no point of the platform at all, as there is no supervision or consistency/commitment of community support.
 2. Friends are uninterested in your goal and do not provide the necessary support and therefore the motivation resulting from is not present. The friendship group should be small to instill the 'trust' aspect only, otherwise a deviation from original goal may occur (eg. group may indirectly orient this direction because they are not *experts* in the particular area). Although, trust may not be an issue within a small friendship group, knowledge surrounding a particular goal in most instances will not be present. Further, this is dependent on location (eg. what if you moved from the snow to the beach & want to learn how to surf - none of your friends know how to surf because they have always lived in the snow!). If this small group cannot relate to the context themselves, then they will be less likely to contribute as much as they would if they had an active interest in the context, Thus reducing the motivational factor.
 
---
+---
 
 As such, the system would most likely benefit to include 2 'groups' who both actively contribute to a particular goal - a 'community' group (context experts) & trusted group (accountability experts). In addition, ideally a small friends group with a common goal would be more effective (whilst getting assistance/advice from the community) than an individual, as this is one of the problems surrounding trust (and context relation)
 
