@@ -337,3 +337,9 @@ Szostek, A. M., et al. (2008). Understanding the implications of social transluc
 Katina Kulow, Thomas Kramer, and Kara Bentley (2015). "All For One and One For All: Individual Vicarious Goal Fulfillment in Group Contexts". Advances in Consumer Research 43: 601-601.
 
 Barbara Briers and Elaine Chan (2013). "When Social Comparison Is Demotivating For Goal Achievement".  Advances in Consumer Research 41.
+
+Nutrition Nourishment (n.d) Recipe of the Week: Barley and Raw Veg Power Salad. Retrieved from: https://nutritionnourishment.wordpress.com/2017/05/08/recipe-of-the-week-barley-and-raw-veg-power-salad/
+
+Pom Pom Comedy (2014) Nike + Running. Retrieved from: http://www.pompomcomedy.fr/nike-running-joggings-en-forme-penis/
+
+The Odyssey Online (2016) Why Running is Perfect for Everyone. Retrieved from: https://www.theodysseyonline.com/why-running-is-perfect-for-everyone
