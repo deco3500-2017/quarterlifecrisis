@@ -200,11 +200,11 @@ If any difficulties are faced between members throughout the project, the group 
 
 ## 4.0 Communication
 ### 4.1 File Storage
-
 Google Drive link: https://drive.google.com/drive/folders/0ByCNRVNpo7N6NHpxSE9ycjVmV0E?usp=sharing
 
 GitHub: https://github.com/deco3500-2017/quarterlifecrisis
 
+**Disclaimer** (*As the semester has progressed, various materials have been uploaded to github and Google Drive, however some materials may not be present in both locations *(the are in one or the other)* as in certain instances, the team utilised one platform for convience. Every effort has been made to include all material on git, but their may be some mismatches in naming and location).
 
 #### 4.1.1 Naming Conventions
 All documents to be completed for submission will be named according to their title within the course. Once a document is submitted, its relating material will be moved to a dedicated folder, with the name corresponding to the project title. Meetings minutes will be titled with the date, and any other non-code based items will be named to depict their purpose as accurately as possible.
