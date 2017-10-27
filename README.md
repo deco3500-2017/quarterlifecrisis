@@ -69,7 +69,7 @@ This application does not target users younger than 18 because they generally st
 
 #### 2.3.1 Design Personas
 ##### a. Persona 1 - Jill
-![Persona 1 - Jill](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Persona-Jill.png "Jill") Jill is a 22-year-old girl that has recently moved out of home for the first time. She finds it difficult to motivate herself to get out of bed unless she absolutely has to.Without her family to push her, she often ends up relying on her friends to keep her going. However, it is becoming increasingly challenging to spend large amounts of time together to help her out of her slump. Jill is heavily reliant on social media to keep her connected, and uses at least 4 social media applications at a time to communicate with her social circle.
+![Persona 1 - Jill](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Personas/Persona-Jill.png "Jill") Jill is a 22-year-old girl that has recently moved out of home for the first time. She finds it difficult to motivate herself to get out of bed unless she absolutely has to.Without her family to push her, she often ends up relying on her friends to keep her going. However, it is becoming increasingly challenging to spend large amounts of time together to help her out of her slump. Jill is heavily reliant on social media to keep her connected, and uses at least 4 social media applications at a time to communicate with her social circle.
 
 **Goals:**
 * Build self-esteem
@@ -84,7 +84,7 @@ This application does not target users younger than 18 because they generally st
 ---
 
 ##### a. Persona 2 - William
-![Persona 2 - William](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/William.png "William") William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
+![Persona 2 - William](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Personas/William.png "William") William Tate is in his late 20s. He is the first of his group of friends from high school to settle down with a partner and a job. He is a construction worker, and also has a workshop in his garage where he likes to build things out of wood and metal. His friend circle has diminished through the last 5 to 6 years. The few remaining friends he maintains contact with are very close to each other. He wants to see them succeed in life and has taken on the role of a mentor to them.
 
 **Goals:**
 * To build his life and family
