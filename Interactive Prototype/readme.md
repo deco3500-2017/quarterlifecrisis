@@ -22,7 +22,8 @@ Initially, how concept centred around the completion of user created tasksm and 
 - Images from the prototype used
 
 #### Stage 2
-- Gamification
+
+#### Gamification
 - Screens from prototype
 
 The team decided that one of the prototypes should follow the path of gamifying accountability in goal completion. 
@@ -43,3 +44,31 @@ Propose a system where: you have your friends & the group both contributing to y
 - Screens from final prototype
 
 The evolved version of the concept was developed using the insights obtained through the investigation of the concept of accountability through the semester. This outlines the idea behind our concept Pracc, the problem space that it tries to address and how the application attempts to provide an accountability solution for the target users. While the team did consider staying true to the original target market and the initial concept, many things changed and thus we wanted to introduce the prototype by first indicating the inspiration, then the concept idea, proceeded by the target user, and then ending with the specifications of the app and its potential.
+
+The name of the application is PRACC, which sources from the combination of the words progress (Pr) and accountability (Acc) combining into the word Pracc (which resembles practice). We believe that these three words represent what each user will preaching when using the application. While staying true to the original concept, we wanted to devise a prototype that combine a social media platform for groups of friends in which they could rate each other through a newsfeed thus gamifying the process of keeping each other accountable. 
+
+The main factor od accountability with this prototype is the idea of social visbility which puts pressure on underperforming users as others will see successes and failures and social visbility also allows for the community of helpers to know how each person is doing and push them towards their goals if the fall of the radar. Pracc will allow users to post different media as a way to update the members of their group. The members then rate the progress as a uniform measure to compare activity. 
+
+Note: The prototype is very buggy and it does not display the core functionality of what we intended to achieve. 
+
+## Concept Potential. 
+
+In addition to creating a prototype for the original concept, the QLC team also created a prototype to fit thhe concept within a Human Resopurces context in an organisation. With this, the aim was to use this system in a situation where accountability was not set byt the person but by an organisation. A person can decide to drop a goal and not be accountable to themselves, whereas a person cannot decide to be accountable or not towwards the organisation they work for (as the relationship between these two parties already reflects that one of accountability). 
+
+In exploring this new design direction, the team was not able to engage in additional formal research on the area. However, we believe that an application that focuses on small project based firms (like startups, consultancy firms, marketing agencies) who do not have many employees would be suitable. Some reasons for suitability are as follow:
+
+1. There is already anj individual (employee) and group context (department or firm)
+
+2. The system would for feedback and collaboration between employees from the same department or from different departments
+
+3. The rating system could be used by team leaders or managers as an HR tool
+
+4. The social application could be applied as a statistical tool for performance review by implementing a desktop application
+
+5. Employees can use the system as a repository for some of their work
+
+6. Creating a repository with tagged content can allow easy navigation of employee work across a firm
+
+7. Rating the work of other employees would affect their average and that average would affect the group average (firm, department). This creates a balance between harsh and easy going rating. Users will rate accordingly given that rating others harshly to come on top will also affect everyone as a group. 
+
+The team at QLC sees more potential along the lines of Human Resource management and competing with project management tools by providing a solution that is easy to navigate and enjoyable as a social media tool. For this project there was not enough time to put research effort onto this area, but it is a design direction to consider if the project moves forward.
