@@ -1,7 +1,13 @@
 
-Project Proposal
+Pracc
 ================
 #### **Quarter Life Crisis** | *DECO3500 - Social & Mobile Computing*
+
+ - [Introduction](#introduction)
+ - [Concept](#concept)
+ - [Team](#team)
+ - [Plan](#plan)
+ - [References](#references)
 
 ## 1.0 Introduction
 
