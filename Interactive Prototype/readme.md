@@ -18,29 +18,30 @@ Members of the community have input on the goals set by each member before they 
 #### Stage 1
 Initially, how concept centred around the completion of user created tasksm and the accountability (or lack off...) involved in the process to complete the task sucessfully. This iteration of the application, included a paper prototype of the user progession through the application from sign up to goal completion. Feeback receieved highlight improvements in paper protyping process and importance of testing 'vertically' (all the functionallity of **one** aspect) versus 'horizontally' (the entire product) - which we did.
 
-[a link](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Paper%20Prototype/DECO7350%20Paper%20Prototype.pdf)
+[Paper Prototype Link](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Paper%20Prototype/DECO7350%20Paper%20Prototype.pdf)
 
 #### Stage 2
 
 #### Gamification
-- Screens from prototype
+
+[Gamification Prototype](https://github.com/deco3500-2017/quarterlifecrisis/tree/master/Standup%20Week%2010/gamification)
 
 The team decided that one of the prototypes should follow the path of gamifying accountability in goal completion. 
 The Carrot and the stick: The metaphor of the carrot and the stick is the idea that we will focus on with the next prototype. During the interviews, it was mentioned that in keeping someone accountable there is a need to understand if positive reinforcements or punishments works better for a particular person. The carrot and the stick comes in as a way of using both of these methods for each user. As users get closer to their goals, they would receive carrots as a reward and if they stalled progress then they could be given the stick as a punishment.
 
 ##### Social platform
- - Screens from prototype
+[Social Platform Prototype](https://github.com/deco3500-2017/quarterlifecrisis/tree/master/Standup%20Week%2010/social)
 
 This concept was primarily reworked to enhance a social space as a network rather than communal groups. This causes emphasis to be placed on an individual social performance and used that as a motivator instead of relying on the accountability aspect of the initial concept. Sharing your own progress or a story subconsciously causes the user to evaluate their efforts and motivates them to perform and work towards their goals as it is open and documented.
 
 
 ##### Newsfeed
-- Screens from prototype
+[Newsfeed Prototype](https://github.com/deco3500-2017/quarterlifecrisis/tree/master/Standup%20Week%2010/activity-feed)
 
 Propose a system where: you have your friends & the group both contributing to your outcome. For example, your friends may not be interested in you swimming whereas the swimming group would. This would help enforce consistency and interaction as the friends group could 'vet' the larger group feedback reliably as you trust your friends. The feed is system primarily displays the social interaction between someone with a goal and friends by commenting on the 'process' from the 'expert' group. This would go alongside the possibility of rewards or benefits within the application.
 
 ##### New final
-- Screens from final prototype
+[Poster for Interactive Prototype](https://github.com/deco3500-2017/quarterlifecrisis/blob/master/Marketing%20Material/PRACC-Poster-Final.pdf)
 
 The evolved version of the concept was developed using the insights obtained through the investigation of the concept of accountability through the semester. This outlines the idea behind our concept Pracc, the problem space that it tries to address and how the application attempts to provide an accountability solution for the target users. While the team did consider staying true to the original target market and the initial concept, many things changed and thus we wanted to introduce the prototype by first indicating the inspiration, then the concept idea, proceeded by the target user, and then ending with the specifications of the app and its potential.
 
